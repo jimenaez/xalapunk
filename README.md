@@ -10,7 +10,7 @@ Además se considera el hospedaje dividido entre cinco personas.
 
 ---
 
-## 🔢 Tarifas utilizadas
+## Tarifas utilizadas
 
 | Concepto | Costo |
 |----------|-------|
@@ -24,7 +24,7 @@ Además se considera el hospedaje dividido entre cinco personas.
 
 ---
 
-## 🚌 Cálculo del camión CDMX → Xalapa
+## Cálculo del camión CDMX → Xalapa
 
 - Tarifa base del camión: **$800**  
 - Descuento aplicado: **50%**  
@@ -33,7 +33,7 @@ Además se considera el hospedaje dividido entre cinco personas.
 
 ---
 
-## ✈️ Cálculo del avión Juárez → CDMX
+## Cálculo del avión Juárez → CDMX
 
 - Costo avión (solo ida, para quienes vienen de Juárez): **$1,600**
 
@@ -41,7 +41,7 @@ Las personas de CDMX **no pagan este tramo**, pero **sí pagan el regreso** si v
 
 ---
 
-## 🏨 Hospedaje
+## Hospedaje
 
 - Total: **$4,985**
 - Dividido entre 5 personas:  
@@ -49,7 +49,7 @@ Las personas de CDMX **no pagan este tramo**, pero **sí pagan el regreso** si v
 
 ---
 
-## 🧮 Costo total por persona (estimado)
+## Costo total por persona (estimado)
 
 ### Para personas que VIAJAN desde Juárez:
 - Transporte local: 700  
@@ -72,7 +72,7 @@ Las personas de CDMX **no pagan este tramo**, pero **sí pagan el regreso** si v
 
 ---
 
-## 📌 Notas
+##  Notas
 - Este archivo contiene únicamente un estimado con las tarifas disponibles al momento.  
 - Si cambias los precios o agregas más gastos, recuerda actualizar este documento.
 
